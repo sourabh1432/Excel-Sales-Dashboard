@@ -6,7 +6,7 @@ The dashboard helps in tracking sales performance, regional contribution, and pr
 
 ---
 ## 📸 Dashboard Preview
-![Dashboard Preview](D:\Excel\Project\dashboard.png)
+![dashboard Preview](D:\Excel\Project\dashboard.png)
 
 <p align="center">
   <img src="dashboard.png" width="800">
